@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Math
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
