@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1925-count-square-sum-triples](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1925-count-square-sum-triples) |
 ## Geometry
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
