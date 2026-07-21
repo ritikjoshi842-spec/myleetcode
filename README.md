@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0078-subsets) |
+| [0152-maximum-product-subarray](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0152-maximum-product-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0658-find-k-closest-elements) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0152-maximum-product-subarray) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Enumeration
