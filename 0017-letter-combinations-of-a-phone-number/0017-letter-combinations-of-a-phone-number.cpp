@@ -1,30 +1,31 @@
 class Solution {
 public:
-    void f(vector<string> &res, unordered_map<char, string> &mp, int idx, int n, string digits, string &s){
-        if(idx== n){
-           res.push_back(s);
-           return;
+    void fx(vector<string> &res, unordered_map<char, string> &mp, int idx, string &digits,
+    string &temp){
+        if(idx== digits.size()){
+            res.push_back(temp);
+            return;
         }
-        string temp= mp[digits[idx]];
-        for(int i=0; i< mp[digits[idx]].size(); i++){
-            s.push_back(temp[i]);
-            f(res, mp, idx+ 1, n, digits, s);
-            s.pop_back();
+        string output = mp[digits[idx]];
+        for(int i=0; i< output.size(); i++){
+            temp.push_back(output[i]);
+            fx(res, mp, idx+ 1, digits, temp);
+            temp.pop_back();
         }
     }
     vector<string> letterCombinations(string digits) {
-       vector<string> res;
-       unordered_map<char, string> mp;
-       mp['2']= "abc";
-       mp['3']= "def";
-       mp['4']= "ghi";
-       mp['5']= "jkl";
-       mp['6']= "mno";
-       mp['7']= "pqrs";
-       mp['8']= "tuv";
-       mp['9']= "wxyz";
-       string s= "";
-       f(res, mp, 0, digits.size(), digits, s);
-       return res;
+        vector<string> res;
+        unordered_map<char, string> mp;
+        string temp;
+        mp['2']= "abc";
+        mp['3']= "def";
+        mp['4']= "ghi";
+        mp['5']= "jkl";
+        mp['6']= "mno";
+        mp['7']= "pqrs";
+        mp['8']= "tuv";
+        mp['9']= "wxyz";
+        fx(res, mp, 0, digits, temp);
+        return res;
     }
 };
