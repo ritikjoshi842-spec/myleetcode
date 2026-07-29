@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3046-split-the-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3046-split-the-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0767-reorganize-string) |
+| [3046-split-the-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3046-split-the-array) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0767-reorganize-string) |
+| [3046-split-the-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3046-split-the-array) |
 ## Quickselect
 |  |
 | ------- |
