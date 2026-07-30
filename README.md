@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0767-reorganize-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1925-count-square-sum-triples](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1925-count-square-sum-triples) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
 |  |
 | ------- |
