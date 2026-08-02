@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0152-maximum-product-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0503-next-greater-element-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0037-sudoku-solver) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
 |  |
