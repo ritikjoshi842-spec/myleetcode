@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0152-maximum-product-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0347-top-k-frequent-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0066-plus-one) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1925-count-square-sum-triples](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1925-count-square-sum-triples) |
