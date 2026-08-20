@@ -1,53 +1,36 @@
-struct cmp{
-    bool operator()(pair<int, char> &a, pair<int, char> &b){
-        if(a.first!= b.first){
-            return a.first< b.first;
-        }
-        return a.second< b.second;
-    }
-};
 class Solution {
 public:
     string reorganizeString(string s) {
         unordered_map<char, int> mp;
-        priority_queue<pair<int, char>, vector<pair <int, char>>, cmp> pq;
         for(int i=0; i< s.size(); i++){
             mp[s[i]]++;
         }
+        priority_queue<pair<int, char>> pq;
         for(auto i: mp){
-            char ch= i.first;
-            int freq= i.second;
-            pair<int, char> curr= {freq, ch};
-            pq.push(curr);
+           pq.push({i.second, i.first});
         }
-        string res= "";
-        int idx= 0;
-        while(!pq.empty()){
-            if(idx== 0 or res[idx- 1]!= pq.top().second){
-                pair<int, char> p1= {pq.top().first, pq.top().second};
+        string res;
+        while(pq.size()>= 2){
+           auto temp1= pq.top();
+           res.push_back(temp1.second);
+           pq.pop();
+           auto temp2= pq.top();
+           res.push_back(temp2.second);
+           pq.pop();
+           if(temp1.first> 1){
+            pq.push({temp1.first - 1, temp1.second});
+           }
+           if(temp2.first> 1){
+            pq.push({temp2.first - 1, temp2.second});
+           }
+        }
+        if(pq.size()== 1){
+            if(pq.top().first== 1){
                 res.push_back(pq.top().second);
-                p1.first--;
-                if(p1.first> 0){
-                    pq.push(p1);
-                }
-                pq.pop();
             }
             else{
-                pair<int, char> curr= {pq.top().first, pq.top().second};
-                pq.pop();
-                if(pq.empty()){
-                    return "";
-                }
-                pair<int, char> p2= {pq.top().first, pq.top().second};
-                res.push_back(p2.second);
-                pq.pop();
-                p2.first--;
-                if(p2.first> 0){
-                    pq.push(p2);
-                }
-                pq.push(curr);
+                return "";
             }
-            idx++;
         }
         return res;
     }
