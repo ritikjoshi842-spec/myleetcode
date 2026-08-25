@@ -9,12 +9,15 @@ public:
             sum = sum + nums[i];
             int rem = sum%k;
             if(rem< 0){
-                rem = rem + k;
+                rem= rem + k;
             }
             if(mp.find(rem)!= mp.end()){
                 count = count + mp[rem];
+                mp[rem]++;
             }
-            mp[rem]++;
+            else{
+                mp[rem]++;
+            }
         }
         return count;
     }
