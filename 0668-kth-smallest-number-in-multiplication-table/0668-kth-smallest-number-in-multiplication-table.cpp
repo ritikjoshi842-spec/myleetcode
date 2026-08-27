@@ -1,35 +1,38 @@
 class Solution {
 public:
-    int solve(int m, int n, int guess){
-        int row= m;
-        int col= 1;
+    int fx(int guess, int m, int n, int k){
+        int start= m;
+        int row = m;
+        int col = 1;
         int count = 0;
-        while(row> 0 and col<= n){
-            if(row* col <= guess){
-                count= count + row;
+        while(col <= n and row > 0){
+            if(start<= guess){
+                count = count + row;
+                start = start + row;
                 col++;
             }
             else{
+                start = start - col;
                 row--;
             }
         }
         return count;
     }
     int findKthNumber(int m, int n, int k) {
-      int low= 1;
-      int high= m*n;
-      int res= 0;
-      while(low<= high){
-        int mid= low + (high - low)/2;
-        int count = solve(m, n, mid);
-        if(count>= k){
+        int low = 1;
+        int high = m * n;
+        int res = 0;
+        while(low <= high){
+          int mid = low + (high - low)/2;
+          int count = fx(mid, m, n, k);
+          if(count>= k){
             res= mid;
-            high= mid - 1;
+            high = mid - 1;
+          }
+          else{
+            low= mid + 1;
+          } 
         }
-        else{
-            low = mid + 1;
-        }
-      } 
-      return res; 
+        return res;
     }
 };
