@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3046-split-the-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3046-split-the-array) |
 ## Backtracking
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
