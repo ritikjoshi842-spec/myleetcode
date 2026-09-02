@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0658-find-k-closest-elements) |
@@ -291,11 +292,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
