@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3046-split-the-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3046-split-the-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1925-count-square-sum-triples](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1925-count-square-sum-triples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Geometry
 |  |
 | ------- |
