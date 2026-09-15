@@ -6,31 +6,36 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    bool ans = true;
-    void fx(TreeNode* root, TreeNode* &prev) {
-        if (root == nullptr) {
+bool res = true;
+TreeNode* prev = nullptr;
+void fx(TreeNode* root){
+    if(root==nullptr){
+        return;
+    }
+    fx(root-> left);
+    if(prev== nullptr){
+        prev= root;
+    }
+    else{
+        if(root-> val<= prev-> val){
+            res = false;
             return;
         }
-        fx(root->left, prev);
-        if (prev == nullptr) {
-            prev = root;
-        } else if (root->val <= prev->val) {
-            ans = false;
-            prev = root;
-        } else {
+        else{
             prev = root;
         }
-        fx(root->right, prev);
     }
+    fx(root-> right);
+}
     bool isValidBST(TreeNode* root) {
-        TreeNode *prev= nullptr;
-        fx(root, prev);
-        return ans;
+        fx(root);
+        return res;
+
+
     }
 };
