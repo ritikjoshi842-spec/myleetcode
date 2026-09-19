@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0040-combination-sum-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0152-maximum-product-subarray) |
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0292-nim-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
