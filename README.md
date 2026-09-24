@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0326-power-of-three) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1925-count-square-sum-triples](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1925-count-square-sum-triples) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0326-power-of-three) |
 ## Depth-First Search
 |  |
 | ------- |
