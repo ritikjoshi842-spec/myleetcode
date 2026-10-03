@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0929-unique-email-addresses](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0767-reorganize-string) |
+| [0929-unique-email-addresses](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0767-reorganize-string) |
+| [0929-unique-email-addresses](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0929-unique-email-addresses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
