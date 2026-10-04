@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1925-count-square-sum-triples](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1925-count-square-sum-triples) |
+| [2235-add-two-integers](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3232-find-if-digit-game-can-be-won) |
