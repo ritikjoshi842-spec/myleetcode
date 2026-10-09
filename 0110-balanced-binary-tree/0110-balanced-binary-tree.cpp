@@ -11,20 +11,22 @@
  */
 class Solution {
 public:
-bool res= true;
+bool res = true;
 int fx(TreeNode* root){
     if(root== nullptr){
         return 0;
     }
-    int left = fx(root-> left);
+    int left= fx(root-> left);
     int right = fx(root-> right);
-
-    if(abs(left - right)> 1){
+    if(abs(left- right)> 1){
         res = false;
     }
     return 1 + max(left, right);
 }
     bool isBalanced(TreeNode* root) {
+        if(root== nullptr){
+            return true;
+        }
         fx(root);
         return res;
     }
