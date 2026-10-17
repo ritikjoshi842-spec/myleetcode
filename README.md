@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -523,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2413-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
