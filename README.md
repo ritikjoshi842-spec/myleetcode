@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0414-third-maximum-number) |
+| [0498-diagonal-traverse](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0525-contiguous-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0498-diagonal-traverse) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Dynamic Programming
@@ -532,4 +534,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
