@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0410-split-array-largest-sum) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0326-power-of-three) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1925-count-square-sum-triples) |
 ## Bit Manipulation
 |  |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2413-smallest-even-multiple) |
 ## Simulation
 |  |
@@ -577,4 +581,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0867-transpose-matrix) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
