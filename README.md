@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0410-split-array-largest-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0326-power-of-three) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0658-find-k-closest-elements) |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
