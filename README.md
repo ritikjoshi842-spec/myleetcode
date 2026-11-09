@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0275-h-index-ii) |
