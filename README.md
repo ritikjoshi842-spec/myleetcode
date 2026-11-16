@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0767-reorganize-string) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0412-fizz-buzz) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1925-count-square-sum-triples](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1925-count-square-sum-triples) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0867-transpose-matrix) |
