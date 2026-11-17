@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -684,14 +686,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0785-is-graph-bipartite) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
