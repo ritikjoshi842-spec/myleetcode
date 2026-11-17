@@ -12,6 +12,7 @@ void dfs(vector<vector<int>>& graph, vector<int> &color, int c, int n, int node)
             dfs(graph, color, 1-c, n, neigh);
         }
     }
+    return;
 }
     bool isBipartite(vector<vector<int>>& graph) {
         int n = graph.size();
