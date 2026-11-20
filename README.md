@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0929-unique-email-addresses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
