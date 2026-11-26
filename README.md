@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3360-stone-removal-game](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3360-stone-removal-game) |
 ## Geometry
 |  |
 | ------- |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0867-transpose-matrix) |
+| [3360-stone-removal-game](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3360-stone-removal-game) |
 ## Primality Test
 |  |
 | ------- |
