@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0412-fizz-buzz) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1185-day-of-the-week](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1185-day-of-the-week) |
 | [1925-count-square-sum-triples](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2413-smallest-even-multiple) |
