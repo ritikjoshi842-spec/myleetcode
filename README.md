@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3046-split-the-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3046-split-the-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Backtracking
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3360-stone-removal-game](https://github.com/ritikjoshi842-spec/myleetcode/tree/master/3360-stone-removal-game) |
